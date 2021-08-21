@@ -8,7 +8,10 @@ var emojiDictionary = {
   "😞": " Sad ",
   "😃": "Happy",
   "😠": "Angry",
-  "😪": "Sleepy "
+  "😪": "Sleepy ",
+  "🤫": " Shushing",
+  "🤔": " Thinking",
+  "🤗": " Hugging "
 };
 var emojisWeKnow = Object.keys(emojiDictionary);
 
